@@ -1,2 +1,2 @@
 # mikrotik
-Script automatic backup mikrotik
+Script automatic backup mikrotik equipment
